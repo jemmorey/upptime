@@ -4,7 +4,7 @@ repo: upptime
 
 sites:
   - name: SpeakUpConference.com
-    url: https://www.speakupconference.com\
+    url: https://www.speakupconference.com
     maxResponseTime: 5000
   - name: SpeakUpForHope.org
     url: https://www.speakupforhope.org
