@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3840,
-    "timeDay": 3840,
-    "timeWeek": 3840,
-    "timeMonth": 3840,
-    "timeYear": 3840,
+    "time": 3533,
+    "timeDay": 3533,
+    "timeWeek": 3533,
+    "timeMonth": 3533,
+    "timeYear": 3533,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4971,
-    "timeDay": 4971,
-    "timeWeek": 4971,
-    "timeMonth": 4971,
-    "timeYear": 4971,
+    "time": 4637,
+    "timeDay": 4637,
+    "timeWeek": 4637,
+    "timeMonth": 4637,
+    "timeYear": 4637,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 642,
-    "timeWeek": 642,
-    "timeMonth": 642,
-    "timeYear": 642,
+    "time": 655,
+    "timeDay": 655,
+    "timeWeek": 655,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3122,
-    "timeDay": 3122,
-    "timeWeek": 3122,
-    "timeMonth": 3122,
-    "timeYear": 3122,
+    "time": 3277,
+    "timeDay": 3277,
+    "timeWeek": 3277,
+    "timeMonth": 3277,
+    "timeYear": 3277,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupspeakerservices.com.ico",
     "slug": "speak-up-speaker-services-com",
     "status": "down",
-    "uptime": "9.72%",
-    "uptimeDay": "9.72%",
-    "uptimeWeek": "9.72%",
-    "uptimeMonth": "9.72%",
-    "uptimeYear": "9.72%",
-    "time": 1074,
-    "timeDay": 1074,
-    "timeWeek": 1074,
-    "timeMonth": 1074,
-    "timeYear": 1074,
+    "uptime": "0.29%",
+    "uptimeDay": "0.29%",
+    "uptimeWeek": "0.29%",
+    "uptimeMonth": "0.29%",
+    "uptimeYear": "0.29%",
+    "time": 664,
+    "timeDay": 664,
+    "timeWeek": 664,
+    "timeMonth": 664,
+    "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-10-22": 0
+      "2023-10-22": 10
     }
   }
 ]
