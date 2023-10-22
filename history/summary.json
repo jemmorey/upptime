@@ -1,22 +1,22 @@
 [
   {
     "name": "SpeakUpConference.com",
-    "url": "https://www.speakupconference.com\\",
+    "url": "https://www.speakupconference.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupconference.com.ico",
     "slug": "speak-up-conference-com",
-    "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 2464,
-    "timeDay": 2464,
-    "timeWeek": 2464,
-    "timeMonth": 2464,
-    "timeYear": 2464,
+    "status": "up",
+    "uptime": "90.92%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "90.92%",
+    "uptimeMonth": "90.92%",
+    "uptimeYear": "90.92%",
+    "time": 2290,
+    "timeDay": 2290,
+    "timeWeek": 2290,
+    "timeMonth": 2290,
+    "timeYear": 2290,
     "dailyMinutesDown": {
-      "2023-10-22": 0
+      "2023-10-22": 10
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3663,
-    "timeDay": 3663,
-    "timeWeek": 3663,
-    "timeMonth": 3663,
-    "timeYear": 3663,
+    "time": 3284,
+    "timeDay": 3284,
+    "timeWeek": 3284,
+    "timeMonth": 3284,
+    "timeYear": 3284,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 471,
-    "timeWeek": 471,
-    "timeMonth": 471,
-    "timeYear": 471,
+    "time": 438,
+    "timeDay": 438,
+    "timeWeek": 438,
+    "timeMonth": 438,
+    "timeYear": 438,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3193,
-    "timeDay": 3193,
-    "timeWeek": 3193,
-    "timeMonth": 3193,
-    "timeYear": 3193,
+    "time": 1970,
+    "timeDay": 1970,
+    "timeWeek": 1970,
+    "timeMonth": 1970,
+    "timeYear": 1970,
     "dailyMinutesDown": {}
   },
   {
@@ -84,13 +84,13 @@
     "uptimeWeek": "0.03%",
     "uptimeMonth": "0.03%",
     "uptimeYear": "0.03%",
-    "time": 856,
-    "timeDay": 856,
-    "timeWeek": 856,
-    "timeMonth": 856,
-    "timeYear": 856,
+    "time": 757,
+    "timeDay": 757,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
     "dailyMinutesDown": {
-      "2023-10-22": 101
+      "2023-10-22": 111
     }
   }
 ]
