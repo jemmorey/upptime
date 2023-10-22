@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupconference.com.ico",
     "slug": "speak-up-conference-com",
     "status": "up",
-    "uptime": "90.92%",
-    "uptimeDay": "90.92%",
-    "uptimeWeek": "90.92%",
-    "uptimeMonth": "90.92%",
-    "uptimeYear": "90.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2290,
     "timeDay": 2290,
     "timeWeek": 2290,
     "timeMonth": 2290,
     "timeYear": 2290,
-    "dailyMinutesDown": {
-      "2023-10-22": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SpeakUpForHope.org",
