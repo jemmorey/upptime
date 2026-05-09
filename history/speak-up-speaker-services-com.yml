@@ -1,7 +1,7 @@
 url: https://www.speakupspeakerservices.com
-status: up
-code: 200
-responseTime: 496
-lastUpdated: 2026-05-08T23:47:04.136Z
+status: down
+code: 429
+responseTime: 190
+lastUpdated: 2026-05-09T04:07:45.769Z
 startTime: 2023-10-22T18:49:36.920Z
 generator: Upptime <https://github.com/upptime/upptime>
