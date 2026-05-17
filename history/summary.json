@@ -94,7 +94,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupforhope.org.ico",
     "slug": "speak-up-for-hope-org",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "88.18%",
@@ -284,18 +284,19 @@
     "url": "https://www.speakupministries.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupministries.com.ico",
     "slug": "speak-up-ministries-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.71%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.70%",
     "uptimeMonth": "88.22%",
-    "uptimeYear": "97.89%",
+    "uptimeYear": "97.90%",
     "time": 2292,
     "timeDay": 2520,
     "timeWeek": 2448,
     "timeMonth": 2303,
     "timeYear": 2342,
     "dailyMinutesDown": {
+      "2026-05-17": 1,
       "2026-05-13": 130,
       "2026-05-09": 127,
       "2026-05-04": 102,
@@ -372,8 +373,7 @@
       "2025-11-15": 39,
       "2025-10-12": 15,
       "2025-10-08": 21,
-      "2025-05-21": 40,
-      "2025-05-20": 19
+      "2025-05-21": 40
     }
   },
   {
