@@ -4,19 +4,19 @@
     "url": "https://www.speakupconference.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupconference.com.ico",
     "slug": "speak-up-conference-com",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "98.27%",
-    "time": 3791,
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.28%",
+    "time": 3795,
     "timeDay": 3567,
     "timeWeek": 2914,
     "timeMonth": 3335,
     "timeYear": 4010,
     "dailyMinutesDown": {
-      "2026-01-05": 134,
+      "2026-01-05": 68,
       "2026-01-09": 149,
       "2026-01-10": 21,
       "2026-01-12": 34,
@@ -84,7 +84,8 @@
       "2026-05-13": 137,
       "2026-05-23": 54,
       "2026-05-26": 354,
-      "2026-06-08": 20
+      "2026-06-08": 20,
+      "2026-06-23": 20
     }
   },
   {
@@ -92,11 +93,11 @@
     "url": "https://www.speakupforhope.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupforhope.org.ico",
     "slug": "speak-up-for-hope-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.01%",
     "uptimeYear": "97.82%",
     "time": 3186,
     "timeDay": 1662,
@@ -104,7 +105,6 @@
     "timeMonth": 3001,
     "timeYear": 3226,
     "dailyMinutesDown": {
-      "2025-11-20": 26,
       "2025-11-22": 29,
       "2025-11-24": 18,
       "2025-11-26": 40,
@@ -180,7 +180,8 @@
       "2026-05-13": 136,
       "2026-05-23": 50,
       "2026-05-26": 350,
-      "2026-06-08": 20
+      "2026-06-08": 20,
+      "2026-06-23": 15
     }
   },
   {
@@ -188,19 +189,18 @@
     "url": "https://carolkent.org",
     "icon": "https://icons.duckduckgo.com/ip3/carolkent.org.ico",
     "slug": "carol-kent-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.05%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "97.81%",
-    "time": 2418,
+    "time": 2421,
     "timeDay": 44,
     "timeWeek": 165,
     "timeMonth": 352,
     "timeYear": 2455,
     "dailyMinutesDown": {
-      "2025-11-28": 19,
       "2025-11-29": 45,
       "2025-12-01": 37,
       "2025-12-02": 41,
@@ -276,7 +276,8 @@
       "2026-05-13": 135,
       "2026-05-23": 49,
       "2026-05-26": 348,
-      "2026-06-08": 20
+      "2026-06-08": 20,
+      "2026-06-23": 10
     }
   },
   {
@@ -284,11 +285,11 @@
     "url": "https://www.speakupministries.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupministries.com.ico",
     "slug": "speak-up-ministries-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.05%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "97.82%",
     "time": 2301,
     "timeDay": 2241,
@@ -296,7 +297,7 @@
     "timeMonth": 2210,
     "timeYear": 2334,
     "dailyMinutesDown": {
-      "2025-11-15": 39,
+      "2025-11-15": 23,
       "2025-11-16": 16,
       "2025-11-17": 34,
       "2025-11-20": 25,
@@ -373,7 +374,8 @@
       "2026-05-17": 65,
       "2026-05-23": 49,
       "2026-05-26": 347,
-      "2026-06-08": 19
+      "2026-06-08": 19,
+      "2026-06-23": 5
     }
   },
   {
@@ -381,9 +383,9 @@
     "url": "https://www.speakupspeakerservices.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupspeakerservices.com.ico",
     "slug": "speak-up-speaker-services-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "97.85%",
@@ -467,7 +469,8 @@
       "2026-05-13": 125,
       "2026-05-23": 47,
       "2026-05-26": 342,
-      "2026-06-08": 19
+      "2026-06-08": 19,
+      "2026-06-23": 0
     }
   }
 ]
