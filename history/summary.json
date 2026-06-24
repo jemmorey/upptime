@@ -4,17 +4,17 @@
     "url": "https://www.speakupconference.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupconference.com.ico",
     "slug": "speak-up-conference-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "93.11%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.27%",
-    "time": 3797,
-    "timeDay": 2507,
-    "timeWeek": 2925,
-    "timeMonth": 3288,
-    "timeYear": 4011,
+    "uptimeDay": "87.57%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.25%",
+    "time": 3798,
+    "timeDay": 2686,
+    "timeWeek": 2918,
+    "timeMonth": 3275,
+    "timeYear": 4010,
     "dailyMinutesDown": {
       "2026-01-05": 45,
       "2026-01-09": 149,
@@ -86,7 +86,7 @@
       "2026-05-26": 354,
       "2026-06-08": 20,
       "2026-06-23": 87,
-      "2026-06-24": 13
+      "2026-06-24": 93
     }
   },
   {
@@ -94,17 +94,17 @@
     "url": "https://www.speakupforhope.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupforhope.org.ico",
     "slug": "speak-up-for-hope-org",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "93.77%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "97.81%",
-    "time": 3185,
-    "timeDay": 1503,
-    "timeWeek": 1814,
-    "timeMonth": 2966,
-    "timeYear": 3221,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "88.23%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "97.79%",
+    "time": 3183,
+    "timeDay": 2131,
+    "timeWeek": 1932,
+    "timeMonth": 2960,
+    "timeYear": 3220,
     "dailyMinutesDown": {
       "2025-11-24": 18,
       "2025-11-26": 40,
@@ -182,7 +182,7 @@
       "2026-05-26": 350,
       "2026-06-08": 20,
       "2026-06-23": 77,
-      "2026-06-24": 13
+      "2026-06-24": 93
     }
   },
   {
@@ -190,17 +190,17 @@
     "url": "https://carolkent.org",
     "icon": "https://icons.duckduckgo.com/ip3/carolkent.org.ico",
     "slug": "carol-kent-org",
-    "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "94.44%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "97.80%",
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "88.91%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "97.78%",
     "time": 2424,
-    "timeDay": 77,
-    "timeWeek": 145,
-    "timeMonth": 339,
-    "timeYear": 2449,
+    "timeDay": 228,
+    "timeWeek": 175,
+    "timeMonth": 340,
+    "timeYear": 2445,
     "dailyMinutesDown": {
       "2025-11-29": 26,
       "2025-12-01": 37,
@@ -279,7 +279,7 @@
       "2026-05-26": 348,
       "2026-06-08": 20,
       "2026-06-23": 70,
-      "2026-06-24": 10
+      "2026-06-24": 90
     }
   },
   {
@@ -287,16 +287,16 @@
     "url": "https://www.speakupministries.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupministries.com.ico",
     "slug": "speak-up-ministries-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.00%",
-    "uptimeYear": "97.81%",
+    "uptimeDay": "89.58%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "97.80%",
     "time": 2301,
-    "timeDay": 1740,
-    "timeWeek": 2071,
-    "timeMonth": 2219,
+    "timeDay": 2137,
+    "timeWeek": 2129,
+    "timeMonth": 2228,
     "timeYear": 2333,
     "dailyMinutesDown": {
       "2025-11-16": 16,
@@ -377,7 +377,7 @@
       "2026-05-26": 347,
       "2026-06-08": 19,
       "2026-06-23": 65,
-      "2026-06-24": 5
+      "2026-06-24": 85
     }
   },
   {
@@ -385,16 +385,16 @@
     "url": "https://www.speakupspeakerservices.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupspeakerservices.com.ico",
     "slug": "speak-up-speaker-services-com",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "95.78%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "97.84%",
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "90.25%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "97.82%",
     "time": 411,
-    "timeDay": 261,
-    "timeWeek": 205,
-    "timeMonth": 342,
+    "timeDay": 356,
+    "timeWeek": 236,
+    "timeMonth": 345,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2025-10-08": 20,
@@ -473,7 +473,7 @@
       "2026-05-26": 342,
       "2026-06-08": 19,
       "2026-06-23": 60,
-      "2026-06-24": 0
+      "2026-06-24": 80
     }
   }
 ]
