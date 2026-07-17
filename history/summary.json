@@ -4,19 +4,19 @@
     "url": "https://www.speakupconference.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupconference.com.ico",
     "slug": "speak-up-conference-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.48%",
-    "uptimeMonth": "96.41%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "96.36%",
     "uptimeYear": "98.08%",
-    "time": 3732,
+    "time": 3734,
     "timeDay": 4300,
     "timeWeek": 4883,
     "timeMonth": 3844,
     "timeYear": 4067,
     "dailyMinutesDown": {
-      "2026-01-22": 50,
+      "2026-01-22": 19,
       "2026-01-28": 51,
       "2026-02-03": 48,
       "2026-02-05": 160,
@@ -87,7 +87,8 @@
       "2026-07-05": 69,
       "2026-07-11": 105,
       "2026-07-12": 89,
-      "2026-07-13": 263
+      "2026-07-13": 263,
+      "2026-07-17": 20
     }
   },
   {
@@ -95,19 +96,19 @@
     "url": "https://www.speakupforhope.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupforhope.org.ico",
     "slug": "speak-up-for-hope-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "97.03%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "96.89%",
+    "uptimeMonth": "97.00%",
     "uptimeYear": "97.63%",
-    "time": 3199,
+    "time": 3201,
     "timeDay": 3621,
     "timeWeek": 3509,
     "timeMonth": 2799,
     "timeYear": 3217,
     "dailyMinutesDown": {
-      "2025-12-04": 60,
+      "2025-12-04": 26,
       "2025-12-07": 80,
       "2025-12-09": 41,
       "2025-12-10": 108,
@@ -184,7 +185,8 @@
       "2026-07-03": 67,
       "2026-07-02": 8,
       "2026-07-11": 95,
-      "2026-07-13": 204
+      "2026-07-13": 204,
+      "2026-07-17": 15
     }
   },
   {
@@ -192,19 +194,18 @@
     "url": "https://carolkent.org",
     "icon": "https://icons.duckduckgo.com/ip3/carolkent.org.ico",
     "slug": "carol-kent-org",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.18%",
-    "uptimeMonth": "97.22%",
+    "status": "down",
+    "uptime": "99.14%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "97.20%",
     "uptimeYear": "97.63%",
-    "time": 2377,
+    "time": 2376,
     "timeDay": 283,
     "timeWeek": 235,
     "timeMonth": 289,
     "timeYear": 2312,
     "dailyMinutesDown": {
-      "2025-12-07": 27,
       "2025-12-09": 40,
       "2025-12-10": 107,
       "2025-12-11": 16,
@@ -284,7 +285,8 @@
       "2026-07-01": 83,
       "2026-07-03": 55,
       "2026-07-11": 85,
-      "2026-07-13": 199
+      "2026-07-13": 199,
+      "2026-07-17": 10
     }
   },
   {
@@ -292,19 +294,18 @@
     "url": "https://www.speakupministries.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupministries.com.ico",
     "slug": "speak-up-ministries-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.64%",
-    "time": 2327,
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "97.33%",
+    "uptimeYear": "97.65%",
+    "time": 2330,
     "timeDay": 2330,
     "timeWeek": 2699,
     "timeMonth": 2448,
     "timeYear": 2349,
     "dailyMinutesDown": {
-      "2025-11-29": 26,
       "2025-12-01": 15,
       "2025-12-02": 40,
       "2025-12-03": 58,
@@ -383,7 +384,8 @@
       "2026-07-01": 78,
       "2026-07-03": 50,
       "2026-07-11": 76,
-      "2026-07-13": 194
+      "2026-07-13": 194,
+      "2026-07-17": 5
     }
   },
   {
@@ -391,9 +393,9 @@
     "url": "https://www.speakupspeakerservices.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupspeakerservices.com.ico",
     "slug": "speak-up-speaker-services-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.46%",
     "uptimeMonth": "97.47%",
     "uptimeYear": "97.67%",
@@ -403,7 +405,7 @@
     "timeMonth": 343,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2025-11-26": 37,
+      "2025-11-26": 16,
       "2025-11-28": 18,
       "2025-11-29": 43,
       "2025-12-02": 40,
@@ -480,7 +482,8 @@
       "2026-07-01": 74,
       "2026-07-03": 46,
       "2026-07-11": 66,
-      "2026-07-13": 190
+      "2026-07-13": 190,
+      "2026-07-17": 0
     }
   }
 ]
