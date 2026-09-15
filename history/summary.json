@@ -4,17 +4,17 @@
     "url": "https://www.speakupconference.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupconference.com.ico",
     "slug": "speak-up-conference-com",
-    "status": "degraded",
-    "uptime": "99.30%",
-    "uptimeDay": "79.44%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "97.96%",
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "60.77%",
+    "uptimeWeek": "92.85%",
+    "uptimeMonth": "97.10%",
+    "uptimeYear": "97.90%",
     "time": 3964,
-    "timeDay": 13831,
-    "timeWeek": 6034,
-    "timeMonth": 4778,
-    "timeYear": 4222,
+    "timeDay": 10310,
+    "timeWeek": 5726,
+    "timeMonth": 4749,
+    "timeYear": 4221,
     "dailyMinutesDown": {
       "2026-02-25": 83,
       "2026-02-24": 9,
@@ -94,7 +94,7 @@
       "2026-08-25": 147,
       "2026-09-03": 142,
       "2026-09-10": 156,
-      "2026-09-15": 296
+      "2026-09-15": 565
     }
   },
   {
@@ -102,17 +102,17 @@
     "url": "https://www.speakupforhope.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupforhope.org.ico",
     "slug": "speak-up-for-hope-org",
-    "status": "degraded",
-    "uptime": "99.15%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "97.55%",
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "81.31%",
+    "uptimeWeek": "95.84%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "97.49%",
     "time": 3175,
-    "timeDay": 4233,
-    "timeWeek": 3018,
-    "timeMonth": 2807,
-    "timeYear": 3185,
+    "timeDay": 4270,
+    "timeWeek": 3165,
+    "timeMonth": 2848,
+    "timeYear": 3187,
     "dailyMinutesDown": {
       "2025-12-23": 39,
       "2025-12-24": 28,
@@ -198,7 +198,7 @@
       "2026-08-25": 64,
       "2026-09-03": 137,
       "2026-09-10": 151,
-      "2026-09-15": 0
+      "2026-09-15": 269
     }
   },
   {
