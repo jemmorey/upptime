@@ -4,19 +4,18 @@
     "url": "https://www.speakupconference.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupconference.com.ico",
     "slug": "speak-up-conference-com",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.46%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.45%",
     "uptimeMonth": "98.39%",
-    "uptimeYear": "98.00%",
-    "time": 3938,
-    "timeDay": 2011,
-    "timeWeek": 3231,
-    "timeMonth": 4353,
-    "timeYear": 4194,
+    "uptimeYear": "98.01%",
+    "time": 3964,
+    "timeDay": 13831,
+    "timeWeek": 6034,
+    "timeMonth": 4778,
+    "timeYear": 4223,
     "dailyMinutesDown": {
-      "2026-02-23": 81,
       "2026-02-25": 83,
       "2026-02-24": 9,
       "2026-02-26": 113,
@@ -94,7 +93,8 @@
       "2026-08-22": 66,
       "2026-08-25": 147,
       "2026-09-03": 142,
-      "2026-09-10": 156
+      "2026-09-10": 156,
+      "2026-09-15": 0
     }
   },
   {
