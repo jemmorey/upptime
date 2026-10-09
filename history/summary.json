@@ -102,17 +102,17 @@
     "url": "https://www.speakupforhope.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupforhope.org.ico",
     "slug": "speak-up-for-hope-org",
-    "status": "degraded",
-    "uptime": "99.11%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "96.54%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.35%",
-    "time": 3136,
-    "timeDay": 4892,
-    "timeWeek": 3094,
-    "timeMonth": 2793,
-    "timeYear": 3164,
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "70.08%",
+    "uptimeWeek": "92.27%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "97.27%",
+    "time": 3137,
+    "timeDay": 3903,
+    "timeWeek": 2977,
+    "timeMonth": 2770,
+    "timeYear": 3162,
     "dailyMinutesDown": {
       "2025-12-28": 42,
       "2025-12-29": 90,
@@ -199,7 +199,7 @@
       "2026-09-16": 229,
       "2026-09-20": 305,
       "2026-10-04": 348,
-      "2026-10-09": 1
+      "2026-10-09": 431
     }
   },
   {
