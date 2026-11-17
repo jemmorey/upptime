@@ -4,19 +4,18 @@
     "url": "https://www.speakupconference.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.speakupconference.com.ico",
     "slug": "speak-up-conference-com",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.30%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "97.61%",
-    "time": 4156,
-    "timeDay": 3371,
-    "timeWeek": 3566,
-    "timeMonth": 3576,
-    "timeYear": 4056,
+    "time": 4163,
+    "timeDay": 5659,
+    "timeWeek": 4053,
+    "timeMonth": 3697,
+    "timeYear": 4068,
     "dailyMinutesDown": {
-      "2026-03-01": 16,
       "2026-03-02": 141,
       "2026-03-03": 76,
       "2026-03-05": 132,
@@ -96,7 +95,8 @@
       "2026-10-15": 193,
       "2026-10-19": 337,
       "2026-10-21": 335,
-      "2026-11-14": 171
+      "2026-11-14": 171,
+      "2026-11-17": 0
     }
   },
   {
@@ -114,7 +114,7 @@
     "timeDay": 4641,
     "timeWeek": 3179,
     "timeMonth": 2890,
-    "timeYear": 3121,
+    "timeYear": 3123,
     "dailyMinutesDown": {
       "2026-01-05": 88,
       "2026-01-12": 34,
@@ -220,7 +220,7 @@
     "timeDay": 611,
     "timeWeek": 380,
     "timeMonth": 375,
-    "timeYear": 1578,
+    "timeYear": 1572,
     "dailyMinutesDown": {
       "2025-12-24": 28,
       "2025-12-25": 43,
