@@ -1,7 +1,7 @@
 url: https://www.speakupconference.com
-status: degraded
-code: 503
-responseTime: 7947
-lastUpdated: 2026-11-17T19:05:47.512Z
+status: up
+code: 200
+responseTime: 2661
+lastUpdated: 2026-11-18T01:34:46.727Z
 startTime: 2023-10-22T18:49:22.150Z
 generator: Upptime <https://github.com/upptime/upptime>
